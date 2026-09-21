@@ -6,6 +6,14 @@
 
 If you're here, you're likely in one of these positions: you've heard about Amazon FBA but don't know where to start, you've watched videos but feel overwhelmed, or you want to build something real but need a clear path. That's exactly what this is for.
 
+## How to Use This Blueprint
+
+This Blueprint works two ways: the Fast-Track, or the six Parts that follow it.
+
+The Fast-Track is the shortest path from zero to your first payout: company and banking, tools, buying, shipping, and selling, condensed to the steps you actually need. If you want to be trading as quickly as possible, start there.
+
+The six Parts cover the same ground in far more depth. Working through them at your own pace is what builds a real understanding of every part of the business, not just the steps to follow. Using the Fast-Track first doesn't lock you out of the Parts, and there's no need to rush through them once you get there.
+
 ## What is SourceSheets?
 
 SourceSheets is an all-in-one sourcing platform built to help Amazon sellers find profitable products faster, with less risk, and without wasting time. At its core, it removes the hardest part of Amazon FBA: finding products that actually sell and make money.
