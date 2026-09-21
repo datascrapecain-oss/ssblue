@@ -6,7 +6,7 @@
 
 * [The Fast-Track](batch1-parts1-2-5-6-7/fast-track/0.0-what-this-is.md)
 * [0.1 Setup Checklist](batch1-parts1-2-5-6-7/fast-track/0.1-setup-checklist.md)
-* [0.2 Tool Setup](batch1-parts1-2-5-6-7/fast-track/0.2-tool-setup.md)
+* [0.2 SourceSheets Setup](batch1-parts1-2-5-6-7/fast-track/0.2-sourcesheets-setup.md)
 * [0.3 The 7 Gates](batch1-parts1-2-5-6-7/fast-track/0.3-the-7-gates.md)
 * [0.4 Buy, Ship, Track](batch1-parts1-2-5-6-7/fast-track/0.4-buy-ship-track.md)
 * [0.5 Sell & Get Paid](batch1-parts1-2-5-6-7/fast-track/0.5-sell-and-get-paid.md)
