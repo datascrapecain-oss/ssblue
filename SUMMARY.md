@@ -93,7 +93,7 @@
 * [11.1 Understanding "Inbound → Checked In → Fulfilable"](batch2-parts4-5-extras/modules-10-11-12/11.1-inbound-checked-in-fulfilable.md)
 * [11.2 First Sale Expectations](batch2-parts4-5-extras/modules-10-11-12/11.2-first-sale-expectations.md)
 * [11.3 Tracking Sales & Payout Schedules](batch2-parts4-5-extras/modules-10-11-12/11.3-tracking-sales-and-payout-schedules.md)
-* [11.4 Sellerboard, SellerFuse, and SellerToolKit](batch1-parts1-2-5-6-7/module-11.4-rework/11.4-sellerboard-sellerfuse-and-sellertoolkit.md)
+* [11.4 Sellerboard and SellerToolKit](batch1-parts1-2-5-6-7/module-11.4-rework/11.4-sellerboard-sellerfuse-and-sellertoolkit.md)
 * [11.5 Introducing Repricers](batch1-parts1-2-5-6-7/module-13-and-11.5-rework/11.5-introducing-repricers.md)
 * [Module 12: Your First Amazon Payout](batch2-parts4-5-extras/modules-10-11-12/module-12-intro.md)
 * [12.1 How Amazon Payouts Work](batch2-parts4-5-extras/modules-10-11-12/12.1-how-amazon-payouts-work.md)
