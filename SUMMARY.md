@@ -1,5 +1,6 @@
 # Table of contents
 
+* [Welcome to SourceSheets](batch1-parts1-2-5-6-7/front-matter-purge/00-welcome-to-sourcesheets.md)
 * [SourceSheets New Seller Blueprint](batch1-parts1-2-5-6-7/front-matter-purge/00-landing-page.md)
 
 ## Fast-Track
