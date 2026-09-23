@@ -1,6 +1,6 @@
 # Welcome to SourceSheets
 
-> 📸 **Image needed:** hero image for this welcome page
+> ![](.gitbook/assets/image.png)
 
 Before you dive into the Blueprint, here's a quick look at SourceSheets from Nikos:
 
@@ -24,10 +24,10 @@ SourceSheets has been used by hundreds of active sellers, from complete beginner
 
 ## Get Started
 
-**[👉 Start Your Free Trial](https://sourcesheets.co.uk/)**
+[**👉 Start Your Free Trial**](https://sourcesheets.co.uk/)
 
-**[🌐 Visit the Website](https://sourcesheets.co.uk/)**
+[**🌐 Visit the Website**](https://sourcesheets.co.uk/)
 
-**[💬 Join the Discord Community](https://discord.gg/sourcesheets)**
+[**💬 Join the Discord Community**](https://discord.gg/sourcesheets)
 
 Ready to see exactly how to go from zero to your first payout? Turn the page to get started with the Blueprint.
