@@ -1,6 +1,7 @@
 # Welcome to SourceSheets
 
-> ![](.gitbook/assets/image.png)
+> <img width="1360" height="783" alt="image" src="https://github.com/user-attachments/assets/a88f9bc4-9032-44c2-97d2-e0b4dfaa8d96" />
+
 
 Before you dive into the Blueprint, here's a quick look at SourceSheets from Nikos:
 
